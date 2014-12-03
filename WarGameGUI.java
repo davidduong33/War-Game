@@ -1,5 +1,5 @@
 /**
-   Demonstration of War class
+   GUI for War Card Game
 */
 
 import java.awt.*;
